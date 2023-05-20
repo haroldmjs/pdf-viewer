@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About pdf-viewer
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 This project is a React application that renders a PDF document and provides a book-like reading experience. It includes controls for navigating through pages and zooming in on content. Additionally, there is a branch called 'animated' that introduces animations by rendering a set of images as if they were pages of the PDF.
 
