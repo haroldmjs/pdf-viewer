@@ -11,7 +11,7 @@
      Renders a PDF document and provides a book-like reading experience
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://app.haroldmjs.com/pdf-viewer/">View Demo</a>
   </p>
 </div>
 
@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About pdf-viewer
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+[![Product Name Screen Shot][product-screenshot]](https://haroldmjs.com/imgs/pdf-viewer.gif)
 
 This project is a React application that renders a PDF document and provides a book-like reading experience. It includes controls for navigating through pages and zooming in on content. Additionally, there is a branch called 'animated' that introduces animations by rendering a set of images as if they were pages of the PDF.
 
@@ -59,15 +59,15 @@ This project aims to provide a user-friendly and interactive PDF viewing experie
 
 ### Built With
 [![React][React.js]][React-url]
+[![Tailwind][Tailwindcss]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-<!-- ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
+## Getting Started
+<!-- 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -76,27 +76,26 @@ This is an example of how to list things you need to use the software and how to
 * npm
   ```sh
   npm install npm@latest -g
-  ``` -->
-
-<!-- ### Installation
+  ```
+ -->
+### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/haroldmjs/pdf-viewer.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Run
+   ```sh
+   npm run dev
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -167,7 +166,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments -->
 <!-- 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
@@ -198,9 +197,10 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://haroldmjs.com/imgs/pdf-viewer.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
+[Tailwindcss]: https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white
 [React.js]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
