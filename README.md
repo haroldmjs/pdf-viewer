@@ -166,8 +166,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [react-pdf](https://github.com/wojtekmaj/react-pdf)
 * [react-pageflip](https://nodlik.github.io/react-pageflip/)
 * [react-draggable](https://github.com/react-grid-layout/react-draggable)
